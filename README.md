@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the [Digital Landscape](https://github.com/ONS-Innovation/keh-digital-landscape) (work), [Survey-Kit](https://github.com/survey-kit) (dissertation) and [newmonday](https://github.com/thenewmonday) (startup)
+- 🔭 I’m currently working on the [Digital Landscape](https://github.com/ONS-Innovation/keh-digital-landscape) (work) and [Survey-Kit](https://github.com/survey-kit) (dissertation)
 - 🌱 I’m currently learning AWS and Terraform
 - 🤔 I’m looking for help with large scale automation
 - 💬 Ask me about python, js/ts and web scraping
