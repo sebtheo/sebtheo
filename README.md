@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [Survey-Kit](https://github.com/survey-kit) for my dissertation
+- 🔭 I graduated with **First-Class Honours** in BSc Computer Science with a Year in Industry, achieving an overall mark of **79.48%**. My dissertation, [Survey-Kit](https://github.com/survey-kit), received a mark of **80.58%**.
 - 🏢 I've worked at the [ONS](https://github.com/ONSdigital) mainly as the core contributor to the [Digital Landscape](https://github.com/ONSdigital/keh-digital-landscape)
 - **🌱 I will be starting at NatWest in London in Sept. of 2026**
 - 🤔 I’m looking for help with large scale automation
