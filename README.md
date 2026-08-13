@@ -6,3 +6,4 @@
 - 🤔 I’m looking for help with large scale automation
 - 💬 Ask me about python, js/ts and web scraping
 - 📫 How to reach me: seb@theo4.uk or check out my website [sebtheo.uk](https://www.sebtheo.uk/?utm_source=github)
+- 🎥 Creator of [shows.farm](https://shows.farm). Find out more on [my profile](https://www.sebtheo.uk/project/showsfarm) or more about the features [here](https://shows.farm/features).
